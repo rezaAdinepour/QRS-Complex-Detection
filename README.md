@@ -1,4 +1,4 @@
-# QRS Complex Detection in ECG signals
+# QRS Complex Detection in ECG Signals
 In this project, we detect the time domain parameters of the ECG signals, such as QRS complex, R-R and Q-T intervals and T peaks.
 
 ![image](Images/3.png)
