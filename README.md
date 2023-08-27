@@ -9,4 +9,4 @@ I useed two simple datasets that you can find it <code>Dataset</code> here.
 You can use any other datasets. **You only need to note that the recorded signal is saved in a <code>.txt</code> file**
 
 ## How to work?
-After you clone this repository
+After cloned this repository, run 
