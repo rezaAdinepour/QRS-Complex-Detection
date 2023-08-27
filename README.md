@@ -9,4 +9,8 @@ I useed two simple datasets that you can find it <code>Dataset</code> here.
 You can use any other datasets. **You only need to note that the recorded signal is saved in a <code>.txt</code> file**
 
 ## How to work?
-After cloned this repository, run <code>ECG_TimeDomain_Parameter.py</code>.
+After cloned this repository, run the <code>ECG_TimeDomain_Parameter.py</code>.
+
+After running <code>ECG_TimeDomain_Parameter.py</code>, you will see the following menu:
+
+![image](images/4.png)
