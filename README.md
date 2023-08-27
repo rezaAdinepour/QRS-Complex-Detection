@@ -23,3 +23,11 @@ wait for response 😃
 result of RR interval:
 
 ![image](Images/1.png)
+
+result of Q-T interval:
+
+![image](Images/4.png)
+
+result of T peak:
+
+![image](Images/5.png)
