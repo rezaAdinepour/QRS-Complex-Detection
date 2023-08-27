@@ -13,4 +13,4 @@ After cloned this repository, run the <code>ECG_TimeDomain_Parameter.py</code>.
 
 After running <code>ECG_TimeDomain_Parameter.py</code>, you will see the following menu:
 
-![image](Images/4.png)
+![image](Images/2.png)
