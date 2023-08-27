@@ -31,3 +31,6 @@ result of Q-T interval:
 result of T peak:
 
 ![image](Images/5.png)
+
+## License
+This project is licensed under the [MIT License](LICENSE).
