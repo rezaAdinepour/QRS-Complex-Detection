@@ -1,5 +1,5 @@
 # QRS Complex Detection in ECG signals
-In this project, we detect the time domain parameters of the ECG signals, such as QRS complex, RR and QT intervals and T peaks.
+In this project, we detect the time domain parameters of the ECG signals, such as QRS complex, R-R and Q-T intervals and T peaks.
 
 ![image](Images/3.png)
 
@@ -18,3 +18,8 @@ After running <code>ECG_TimeDomain_Parameter.py</code>, you will see the followi
 All the data files in the dataset folder will be displayed to you, and you have to choose one of them.  And in the next step, you have to choose one of the methods in the ECG signal.
 
 wait for response 😃
+
+## Result
+result of RR interval:
+
+![image](Images/1.png)
