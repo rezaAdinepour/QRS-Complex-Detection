@@ -16,3 +16,5 @@ After running <code>ECG_TimeDomain_Parameter.py</code>, you will see the followi
 ![image](Images/2.png)
 
 All the data files in the dataset folder will be displayed to you, and you have to choose one of them.  And in the next step, you have to choose one of the methods in the ECG signal.
+
+wait for response 😃
